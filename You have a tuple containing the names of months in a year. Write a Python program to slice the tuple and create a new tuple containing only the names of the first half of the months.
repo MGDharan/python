@@ -1,0 +1,4 @@
+months_tuple = ('January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December')
+first_half_months = months_tuple[:6]
+new_tuple = tuple(first_half_months)
+
