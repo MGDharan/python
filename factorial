@@ -1,0 +1,9 @@
+print("factorial",fact)
+fact = 1
+i = 1
+for i in range (i,a+1):
+  fact = fact*i
+print('factorial',fact)
+output:
+5
+factorial 120
