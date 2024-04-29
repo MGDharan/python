@@ -1,0 +1,5 @@
+names = ["Alice", "Bob", "Alice", "Charlie", "Bob", "David"]
+unique_names = list(set(names))
+print(unique_names)
+output:
+['Alice', 'Bob', 'Charlie', 'David']
